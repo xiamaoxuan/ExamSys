@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Fri Feb 21 13:44:37 CST 2014
+genVersionTag=false
+sessionFactoryName=com.cuit.exam.utils.HibernateSessionFactory
+genAnnotations=false
+configFile=/ExamSys Maven Webapp/src/main/resources/spring-security.xml
+reStrategyClass=
+sessionFactoryId=sessionFactory
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
