@@ -91,7 +91,7 @@ public class CommonUtil {
 	* @return String    返回类型 
 	* @throws
 	 */
-	public static String listTOJson(List list){
+	public static String listTOJson(List<?> list){
 		JSONArray jsonArray=JSONArray.fromObject(list);
 		return jsonArray.toString();
 	}
